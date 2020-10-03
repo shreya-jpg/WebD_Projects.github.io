@@ -1,6 +1,6 @@
 # Carbon Footprint Calculator
 
-Back to basics - constructing a one-page applcation using CSS, HTML, jQuery, and JavaScript.
+Back to basics - constructing a carbon footprint calculator applcation using CSS, HTML, jQuery, and JavaScript.
 
 ### Credits
 
